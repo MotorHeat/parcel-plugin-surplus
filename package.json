@@ -49,5 +49,8 @@
     "s-js": "^0.4.7",
     "standard": "^11.0.1",
     "surplus": "^0.5.2"
+  },
+  "dependencies": {
+    "source-map": "^0.7.3"
   }
 }
